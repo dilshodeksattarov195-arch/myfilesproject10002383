@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpecrypt",
+        "uuid": 8786121,
+        "checksum": "v3k4vc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
